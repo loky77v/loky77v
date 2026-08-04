@@ -39,14 +39,14 @@ Passionate about building practical web applications, improving software quality
 ### 🏗️ NORVEX
 An architecture-focused web application designed to provide a modern and user-friendly experience.
 
-🔗 Repository: *Add your NORVEX repository link here*
+🔗 Repository: *https://github.com/loky77v/NORVEX---Intelligent-Architectural-System-.git*
 
 ---
 
 ### ☀️ Vidyuth Vaahan
 A website developed during my internship to showcase solar energy products and services.
 
-🔗 Repository: *Add your Vidyuth Vaahan repository link here*
+🔗 Repository: *https://github.com/loky77v/VidhythVaahanIndia.git*
 
 ---
 
