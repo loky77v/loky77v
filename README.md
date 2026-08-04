@@ -1,22 +1,32 @@
 <h1 align="center">Hi 👋, I'm V Lokeshwara</h1>
-<h3 align="center">Frontend Developer • QA Tester • Software Enthusiast</h3>
+
+<h3 align="center">Software Developer | Frontend Developer | QA Tester</h3>
 
 <p align="center">
-Passionate about building responsive web applications and creating practical software solutions through continuous learning and hands-on projects.
+Passionate about building practical web applications, improving software quality, and continuously learning new technologies.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-loky.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:v333066@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Frontend Developer with an interest in software development
+- 💻 Software Developer with an interest in Frontend Development
 - 🧪 Knowledge of Manual Testing and Bug Reporting
-- 🌱 Continuously learning and improving my development skills
+- 🌱 Continuously learning and building new projects
 - 📍 Bengaluru, India
 
 ---
 
-## 🛠 Skills
+## 🛠️ Skills
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
@@ -24,13 +34,19 @@ Passionate about building responsive web applications and creating practical sof
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
-### 🏗 NORVEX
-An architecture-focused web application designed to deliver modern and user-friendly solutions.
+### 🏗️ NORVEX
+An architecture-focused web application designed to provide a modern and user-friendly experience.
+
+🔗 Repository: *Add your NORVEX repository link here*
+
+---
 
 ### ☀️ Vidyuth Vaahan
-A website developed as part of my internship, showcasing solar energy products and services.
+A website developed during my internship to showcase solar energy products and services.
+
+🔗 Repository: *Add your Vidyuth Vaahan repository link here*
 
 ---
 
@@ -42,23 +58,22 @@ A website developed as part of my internship, showcasing solar energy products a
 
 ## 📫 Contact
 
-📧 v333066@gmail.com
+📧 **v333066@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loky77v&show_icons=true&theme=github_dark&cache_seconds=86400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loky77v&theme=github-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loky77v&layout=compact&theme=github_dark&cache_seconds=86400" />
+  <img src="https://komarev.com/ghpvc/?username=loky77v&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=loky77v&theme=github-dark" />
-</p>
 ---
 
-![](https://komarev.com/ghpvc/?username=loky77v&color=blue)
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
