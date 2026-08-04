@@ -48,12 +48,17 @@ A website developed as part of my internship, showcasing solar energy products a
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=loky77v&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loky77v&show_icons=true&theme=github_dark&cache_seconds=86400" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=loky77v&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loky77v&layout=compact&theme=github_dark&cache_seconds=86400" />
+</p>
 
-![](https://streak-stats.demolab.com?user=loky77v&theme=github-dark)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=loky77v&theme=github-dark" />
+</p>
 ---
 
 ![](https://komarev.com/ghpvc/?username=loky77v&color=blue)
